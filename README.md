@@ -1,5 +1,6 @@
 # TodoApp
 This is my first Angular app, i did it following up with traversy media tutorial.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
 
 ## Development server
